@@ -11,7 +11,15 @@ return {
 		"Scamming",
 		"he's advertising hacks (viruses)"
 	},
+	year = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+        },
 	cheat = {
+		"Scamming",
+		"he's advertising hacks (viruses)"		
+	},
+	old = {
 		"Scamming",
 		"he's advertising hacks (viruses)"		
 	},
