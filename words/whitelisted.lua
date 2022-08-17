@@ -1,6 +1,6 @@
 return {
   ["war%a"] = 1,
   made = 1,
-  fatherland = 1,
-  motherland = 1
+  Very = 1,
+  Cool guy = 1
 };
