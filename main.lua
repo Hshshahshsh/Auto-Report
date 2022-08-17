@@ -21,7 +21,7 @@ local Default = {
 	
 	Words = {
 	    Blacklist = "https://raw.githubusercontent.com/CF-Trail/Auto-Report/main/words/blacklisted.lua";
-	    Whitelist = "https://raw.githubusercontent.com/CF-Trail/Auto-Report/main/words/whitelisted.lua";
+	    Whitelist = "https://raw.githubusercontent.com/Hshshahshsh/Auto-Report/main/words/whitelisted.lua";
 	};
 	
 	ReportFriends = false;
@@ -225,7 +225,7 @@ pcall(function()
     });
 
     autoreport.library:MakeNotification({
-	    Name = "Join the creators' discord",
+	    Name = "Join the owners discord (not mine) it's his",
 	    Content = "discord.gg/outliershub",
 	    Time = 8
     });
