@@ -1,1 +1,1 @@
-discord.gg/outliershub
+auto report
