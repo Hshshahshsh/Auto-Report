@@ -241,6 +241,14 @@ return {
 	cord = {
 		"Offsite Links",
 		"he offsite links"
+        },
+	white= {
+		"Scamming",
+		"he's racist :(("
+        },
+	black = {
+		"Scamming",
+		"he's racist :((((("
 	},
 	youtube = {
 		"Offsite Links",
