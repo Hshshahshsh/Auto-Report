@@ -246,9 +246,13 @@ return {
 		"Scamming",
 		"he's racist :(("
         },
-	black = {
+	admin = {
 		"Scamming",
-		"he's racist :((((("
+		"hes faking he's a admin for passwords"
+	},
+	cheating = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
 	},
 	youtube = {
 		"Offsite Links",
