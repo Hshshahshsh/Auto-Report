@@ -24,7 +24,7 @@ local Default = {
 	    Whitelist = "https://raw.githubusercontent.com/Hshshahshsh/Auto-Report/main/words/whitelisted.lua";
 	};
 	
-	ReportFriends = false;
+	ReportFriends = true;
 }
 
 -- sorry for the executed check t hing taking 7 commits or sum
